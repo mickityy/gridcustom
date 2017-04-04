@@ -16,12 +16,22 @@
     clear: both;
     display: table;
 }
-
+.full{
+  background-color: black;
+  height: 100px;
+}
 .half{
   background-color: yellow;
   height: 100px;
 }
-
+.third{
+  background-color: green;
+  height: 100px;
+}
+.two-thirds{
+  background-color: red;
+  height: 100px;
+}
 .eighth{
   background-color: purple;
   height: 100px;
