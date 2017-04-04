@@ -42,6 +42,18 @@
   height: 100px;
 }
 
+.images{
+  height: auto;
+  padding-left: 6%;
+  display: inline-block;
+}
+
+.pic{
+  padding: 20px;
+  float: left;
+  padding-bottom: 0px;
+}
+
 [class*="col-"] {
     float: left;
     padding: 0px;
